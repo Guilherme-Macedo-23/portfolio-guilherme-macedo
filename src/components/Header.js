@@ -27,11 +27,11 @@ function Header() {
           name='projetos-pessoais.js'
           path="/projetos-pessoais"
         />
-        <MenuBar 
-          icon={ js_icon }
-          name='projetos-profissionais.js'
-          path="/projetos-profissionais"
-        />
+            {/* <MenuBar 
+              icon={ js_icon }
+              name='projetos-profissionais.js'
+              path="/projetos-profissionais"
+            /> */}
         <MenuBar 
           icon={ json_icon }
           name='recomendacoes.json'

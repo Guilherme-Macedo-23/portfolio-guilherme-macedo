@@ -40,10 +40,10 @@ function SideBar() {
             <img src={ js_icon } alt="icon" className="icon-side-bar"/>
             <p>projetos-pessoais.js</p>
           </Link>
-          <Link to="/projetos-profissionais" className="explorer-file">
+          {/* <Link to="/projetos-profissionais" className="explorer-file">
             <img src={ js_icon } alt="icon" className="icon-side-bar"/>
             <p>projetos-profissionais.js</p>
-          </Link>
+          </Link> */}
           <Link to="/recomendacoes" className="explorer-file">
             <img src={ json_icon } alt="icon" className="icon-side-bar"/>
             <p>recomendacoes.json</p>

@@ -16,7 +16,7 @@ function App() {
         <Route exact path="/" element={ <Home /> } />
         <Route path="/sobre" element={ <About /> } />
         <Route path="/projetos-pessoais" element={ <Projects /> } />
-        <Route path="/projetos-profissionais" element={ <ProfessionalProjects /> } />
+        {/* <Route path="/projetos-profissionais" element={ <ProfessionalProjects /> } /> */}
         <Route path="/recomendacoes" element={ <Recommendation /> } />
         <Route path="/contato" element={ <Contact /> } />
       </Routes>
