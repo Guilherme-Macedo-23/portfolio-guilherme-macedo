@@ -27,7 +27,7 @@ function About() {
               <br />
               <span className="span-tag content">{'<p>'}</span>
               <p className="text-about">
-                Sou <span className="span-highlight">Guilherme Macedo</span>, apaixonado por transformar ideias em soluções através do código. Formado em <span className="span-highlight">Desenvolvimento Web Full Stack</span> pelo Senai São Paulo e atualmente curso <span className="span-highlight">Bacharelado em Engenharia da Computação</span> na Universidade Anhembi Morumbi.
+                Sou <span className="span-highlight">Guilherme Macedo</span>, apaixonado por transformar ideias em soluções através do código. Formado em <span className="span-highlight">Desenvolvimento Web Full Stack</span> pelo Senai São Paulo e atualmente curso <span className="span-highlight">Bacharelado em Engenharia da Computação</span>.
               </p>
               <p className="text-about">
                 Meu objetivo é criar aplicações acessíveis, funcionais e capazes de melhorar a vida das pessoas, unindo criatividade, usabilidade e performance. Possuo experiência na solução de problemas complexos, na realização de testes e no trabalho em equipes multidisciplinares, sempre com foco em cumprir prazos e manter a qualidade das entregas.
